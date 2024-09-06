@@ -1,5 +1,5 @@
 # Facial Recognition System for Student Safety
-!(Picture1.jpg)
+![Security system] ](Picture1.jpg)
 ## Project Overview
 
 The Facial Recognition System is designed to enhance security and safety in educational institutions by leveraging face recognition technology. The system maps facial features mathematically and compares them against a database to verify an individual’s identity. The goal is to create a secure and user-friendly solution to monitor and ensure the safety of students and staff within the premises.
@@ -58,7 +58,7 @@ The project aims to utilize facial recognition technology to build software that
 
 ![Entering username](output1.png)
 ![user/staff][output2.png]
-![Index][output3.jpg]
+![Index][/Users/vanishagupta/Projects/security-system/output3.jpg]
 ![InsertWindow][output4.jpg]
 ![DeleteWindow][out6.jpg]
 ![ModifyWindow][output7.jpg]
