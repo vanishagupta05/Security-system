@@ -67,3 +67,16 @@ The project aims to utilize facial recognition technology to build software that
 ![StudentInfoDialog2][output11.png]
 ![DisplayWindow][output13.png]
 ![FacialWindow][output17.png]
+
+
+## URLS
+BIBLIOGRAPHY 
+
+-	https://www.w3schools.com/python/
+-	https://www.geeksforgeeks.org/
+-	https://codescracker.com/
+-	https://stackoverflow.com/
+-	https://builtin.com/
+-	https://www.sanfoundry.com/
+-	https://www.youtube.com/@MotechApp
+-	Face recognition with OpenCV, Python, and deep learning - PyImageSearch
